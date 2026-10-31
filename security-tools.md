@@ -19,6 +19,7 @@ This document provides a list of recommended tools for implementing the security
 - [Snyk](https://snyk.io/) - Find and fix vulnerabilities in dependencies
 - [Dependabot](https://github.com/dependabot) - Automated dependency updates
 - [ESLint Security Plugin](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node.js security
+- [ShipLatch](https://shiplatch.com) - Free passive scan of a live AI-built app for leaked keys, exposed .env/.git and Supabase/Firebase exposure
 
 ## Logging & Monitoring
 
